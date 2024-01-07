@@ -1,0 +1,13 @@
+// Color values
+// "Blau (Light Blue)": 3447003,
+// "Gelb (Yellow)": 16776960,
+// "Grün (Green)": 65280,
+// "Rot (Red)": 16711680,
+// "Orange": 15105570,
+// "Lila (Purple)": 10181046,
+// "Rosa (Pink)": 16729344,
+// "Gold": 16766720,
+// "Türkis (Teal)": 65535,
+// "Grau (Gray)": 8421504,
+// "Dunkelblau (Dark Blue)": 2061822,
+// "Hellgrau (Light Gray)": 9807270
